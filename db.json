@@ -2,7 +2,7 @@
     "starships": [
         {
             "id": 1,
-            "name": "Halcon Milenarioo",
+            "name": "Halcon Milenario",
             "image": "assets/images/starships/halcon_milenario.jpg",
             "descriptionES": "El Halcón Milenario, originalmente conocido como YT-1300 492727ZED, era un carguero ligero corelliano YT-1300 utilizado por los contrabandistas Han Solo y Chewbacca durante la Guerra Civil Galáctica. Anteriormente, era propiedad de Landonis Balthazar Calrissian, que perdió contra Solo en un juego de sabacc.",
             "descriptionEN": "The Millennium Falcon, originally known as YT-1300 492727ZED, was a Corellian YT-1300 light freighter used by smugglers Han Solo and Chewbacca during the Galactic Civil War. Previously, it was owned by Landonis Balthazar Calrissian, who lost to Solo in a sabacc game."
