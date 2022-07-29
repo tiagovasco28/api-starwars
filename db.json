@@ -1,0 +1,100 @@
+{
+    "starships": [
+        {
+            "id": 1,
+            "name": "Halcon Milenario",
+            "image": "assets/images/starships/halcon_milenario.jpg",
+            "descriptionES": "El Halcón Milenario, originalmente conocido como YT-1300 492727ZED, era un carguero ligero corelliano YT-1300 utilizado por los contrabandistas Han Solo y Chewbacca durante la Guerra Civil Galáctica. Anteriormente, era propiedad de Landonis Balthazar Calrissian, que perdió contra Solo en un juego de sabacc.",
+            "descriptionEN": "The Millennium Falcon, originally known as YT-1300 492727ZED, was a Corellian YT-1300 light freighter used by smugglers Han Solo and Chewbacca during the Galactic Civil War. Previously, it was owned by Landonis Balthazar Calrissian, who lost to Solo in a sabacc game."
+        },
+        {
+            "id": 2,
+            "name": "Eravana",
+            "image": "assets/images/starships/eravana.jpg",
+            "descriptionES": "El Eravana fue un carguero pesado clase baleen que Han Solo consiguió después de que le robaran el Halcón Milenario.",
+            "descriptionEN": "The Eravana was a Baleen-class heavy freighter Han Solo acquired after the Millennium Falcon was stolen."
+        },
+        {
+            "id": 3,
+            "name": "Z-95",
+            "image": "assets/images/starships/z95.jpg",
+            "descriptionES": "Cazador de Cabezas Z-95, también llamado Cazacabezas Z-95, fue un caza estelar multipropósito fabricado conjuntamente por la Corporación Incom y Subpro. A pesar de ser considerado anticuado, el Z-95 era durable y adaptable a una variedad de diferentes funciones, que llevaron a muchos a reconocerlo como un caza snub versátil y respetable de su era.",
+            "descriptionEN": "Z-95 Headhunter, also called Z-95 Headhunter, was a multirole starfighter manufactured jointly by Incom Corporation and Subpro. Despite being considered old-fashioned, the Z-95 was durable and adaptable to a variety of different roles, leading many to recognize it as a versatile and respectable snub fighter of its era."
+        },
+        {
+            "id": 4,
+            "name": "Maz Starship",
+            "image": "assets/images/starships/maz_starship.jpg",
+            "descriptionES": "El Maz Starship fue una nave construido al reemplazar el motor normal de un caza estelar BTL Ala-Y con las alas radiadores y motores de iones de un caza estelar TIE/LN estándar.",
+            "descriptionEN": "The Maz Starship was a ship built by replacing the normal engine of a BTL Y-wing starfighter with the radiator wings and ion engines of a standard TIE/LN starfighter"
+        }
+    ],
+    "planets": [
+        {
+            "id": 1,
+            "image": "assets/images/planets/corellia.jpg",
+            "name": "Corellia",
+            "descriptionES": "Corellia era un planeta ubicado en los Mundos del Núcleo de la galaxia, conocido por sus pilotos y sus grandes naves estelares.17 Naves como el Halcón Milenario18 y las naves Imperiales se construyeron en Corellia",
+            "descriptionEN": "Corellia was a planet located in the Core Worlds of the galaxy, known for its pilots and large starships.17 Ships such as the Millennium Falcon18 and Imperial ships were built on Corellia."
+        },
+        {
+            "id": 2,
+            "image": "assets/images/planets/kashyyk.jpg",
+            "name": "Kashyyyk",
+            "descriptionES": "Kashyyyk (ocasionalmente escrito Kashyk) fue un planeta cubierto de árboles wroshyr localizado en el cuadrante occidental de la Galaxia y el mundo natal de los wookiees. Era miembro de la República Galáctica y tras las Guerras Clon fue esclavizado por el Imperio Galáctico. El planeta estaba clasificado por el Imperio como G5-623.",
+            "descriptionEN": "Kashyyyk (occasionally spelled Kashyk) was a wroshyr tree-covered planet located in the western quadrant of the galaxy and the homeworld of the Wookiees. He was a member of the Galactic Republic and after the Clone Wars he was enslaved by the Galactic Empire. The planet was classified by the Empire as G5-623."
+        },
+        {
+            "id": 3,
+            "image": "assets/images/planets/coruscant.jpg",
+            "name": "Corusant",
+            "descriptionES": "originalmente llamado Notron, también conocido como el Centro Imperial, también conocido en Lenguaje Yuuzhan Vong es Yuuzhan tar o La Reina del Núcleo, era un planeta situado en el Núcleo Galáctico.",
+            "descriptionEN": "originally called Notron, also known as the Imperial Center, also known in the Yuuzhan Vong language as Yuuzhan tar or The Queen of the Core, was a planet located in the Galactic Core."
+        },
+        {
+            "id": 4,
+            "image": "assets/images/planets/takodana.jpg",
+            "name": "Takodana",
+            "descriptionES": "originalmente llamado Notron, también conocido como el Centro Imperial, también conocido en Lenguaje Yuuzhan Vong es Yuuzhan tar o La Reina del Núcleo, era un planeta situado en el Núcleo Galáctico.",
+            "descriptionEN": "Takodana was a planet located in the Mid Rim, although it was also in the southwestern region of the galaxy known as the Western Reaches."
+        }
+    ],
+    "characters": [
+        {
+            "id": 1,
+            "image": "assets/images/smuggler/han_solo.jpg",
+            "name": "Han Solo",
+            "descriptionES": "Han Solo, anteriormente conocido como Han antes de que un Oficial de Reclutamiento Imperial le diera el apellido Solo, era un hombre humano contrabandista que se convirtió en un líder en la Alianza para Restaurar la República y una figura instrumental en la derrota del Imperio Galáctico durante la Guerra Civil Galáctica.",
+            "descriptionEN": "Han Solo, formerly known as Han before an Imperial Recruiting Officer gave him the surname Solo, was a human male smuggler who became a leader in the Alliance to Restore the Republic and an instrumental figure in the defeat of the Galactic Empire during the Galactic Civil War.",
+            "starhips": "[this.starshipsList[0]]",
+            "planet": "this.planetsList[0]"
+        },
+        {
+            "id": 2,
+            "image": "assets/images/smuggler/chewbacca.jpg",
+            "name": "Chewbacca",
+            "descriptionES": "llamado afectuosamente Chewie por sus amigos, fue un guerrero wookiee, un contrabandista y un luchador de resistencia que peleó en las Guerras Clon, la Guerra Civil Galáctica y el Guerra Fría. Fue criado en el planeta Kashyyyk y se convirtió en un líder militar.",
+            "descriptionEN": "Chewbacca, affectionately called Chewie by his friends, was a Wookiee warrior, smuggler, and resistance fighter who fought in the Clone Wars, the Galactic Civil War, and the Cold War. He was raised on the planet Kashyyyk and became a military leader.",
+            "starhips": "[this.starshipsList[1]]",
+            "planet": "this.planetsList[1]"
+        },
+        {
+            "id": 3,
+            "image": "assets/images/smuggler/mara_jade_skywalker.jpg",
+            "name": "Mara Jade Skywalker",
+            "descriptionES": "Mara Jade Skywalker fue durante diferentes etapas de su vida, una Mano del Emperador, una contrabandista, y más tarde una Maestra Jedi formando parte del Alto Consejo Jedi. Fue criada como servidora del Emperador Palpatine y llegó a convertirse en una agente de alto nivel capaz de usar la Fuerza.",
+            "descriptionEN": "Mara Jade Skywalker was during different stages of her life, an Emperor's Hand, a smuggler, and later a Jedi Master serving on the Jedi High Council. She was raised as a servant of Emperor Palpatine and went on to become a high-level agent capable of using the Force.",
+            "starhips": "[this.starshipsList[2]]",
+            "planet": "this.planetsList[2]"
+        },
+        {
+            "id": 4,
+            "image": "assets/images/smuggler/maz_kanata.jpg",
+            "name": "Maz Kanata",
+            "descriptionES": "Maz Kanata fue una mujer pirata que ha vivido por más de mil años. Alrededor de 30 años tras la Batalla de Endor, era propietaria de un castillo que era sede de viajeros, contrabandistas y otras gentes.",
+            "descriptionEN": "Maz Kanata was a female pirate who has lived for over a thousand years. About 30 years after the Battle of Endor, she owned a castle that was home to travelers, smugglers, and other folk.",
+            "starhips": "[this.starshipsList[3]]",
+            "planet": "this.planetsList[3]"
+        }
+    ]
+}
